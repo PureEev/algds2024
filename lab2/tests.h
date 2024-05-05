@@ -1,0 +1,10 @@
+#pragma once
+void test_Insert_NegativeValue_ReturnTreeWithKeyOfNegValue();
+void test_Insert_ZeroValue_ReturnTreeWithKeyOfZeroValue();
+void test_merge_NegativeTree_ReturnTreeWithNegativeAndPositiveValues();
+void test_split_NegativeAndPositiveTree_ReturnLeftNegativeAndRightPositive();
+void test_search_negativeValue_TreeWithNegValue();
+void test_RotateLeft_ZeroValue_ReturnTreeWithZeroVal();
+void test_RotateRight_ZeroValue_ReturnTreeWithZeroVal();
+void test_createNode_NegValue_NodeWithNegValue();
+void test_freeTree_ZeroValue_Null();
