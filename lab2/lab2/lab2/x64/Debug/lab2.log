@@ -1,0 +1,4 @@
+﻿  tests.c
+C:\Users\burla\Documents\GitHub\3_sem\algds2024\lab2\lab2\lab2\tests.c(64,15): warning C4047: функция: "SplayTree **" отличается по уровням косвенного обращения от "SplayTree *"
+C:\Users\burla\Documents\GitHub\3_sem\algds2024\lab2\lab2\lab2\tests.c(64,15): warning C4024: splitTree: различные типы для формального и фактического параметров 1
+  lab2.vcxproj -> C:\Users\burla\Documents\GitHub\3_sem\algds2024\lab2\lab2\x64\Debug\lab2.exe
