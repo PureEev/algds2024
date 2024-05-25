@@ -1,0 +1,9 @@
+#pragma once
+
+void test_FindLowestInRow_ZerosRow_ReturnsZeroValue();
+void test_FindLowestInRow_ExampleValues_ReturnsMinValue();
+void test_FindBestFromPossibleMoves_ZerosRow_ReturnsZeroValue();
+void test_FindBestFromPossibleMoves_RowsWithSimularValues_ReturnsMinValue();
+void test_FindBestFromPossibleMovesReverse_ZerosRow_ReturnsZeroValue();
+void test_FindBestFromPossibleMovesReverse_RowsWithSimularValues_ReturnsMinValue();
+void test_FindMostExpensiveSolution_ExampleValues_ReturnMinValue();

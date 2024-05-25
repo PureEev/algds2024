@@ -1,0 +1,10 @@
+﻿  test.c
+C:\Users\burla\Documents\GitHub\laba1-2\laba1-2\test.c(20,47): warning C4048: разные индексы массива: "const int (*)[3]" и "int [4][5]"
+C:\Users\burla\Documents\GitHub\laba1-2\laba1-2\test.c(36,47): warning C4048: разные индексы массива: "const int (*)[3]" и "int [4][5]"
+C:\Users\burla\Documents\GitHub\laba1-2\laba1-2\test.c(52,60): warning C4048: разные индексы массива: "const int (*)[3]" и "int [4][5]"
+C:\Users\burla\Documents\GitHub\laba1-2\laba1-2\test.c(69,60): warning C4048: разные индексы массива: "const int (*)[3]" и "int [4][5]"
+C:\Users\burla\Documents\GitHub\laba1-2\laba1-2\test.c(85,77): warning C4048: разные индексы массива: "const int (*)[3]" и "int [4][5]"
+C:\Users\burla\Documents\GitHub\laba1-2\laba1-2\test.c(102,77): warning C4048: разные индексы массива: "const int (*)[3]" и "int [4][5]"
+C:\Users\burla\Documents\GitHub\laba1-2\laba1-2\test.c(120,63): warning C4048: разные индексы массива: "const int (*)[3]" и "int [4][5]"
+C:\Users\burla\Documents\GitHub\laba1-2\laba1-2\test.c(138,63): warning C4048: разные индексы массива: "const int (*)[3]" и "int [4][4]"
+  laba1-2.vcxproj -> C:\Users\burla\Documents\GitHub\laba1-2\x64\Debug\laba1-2.exe
